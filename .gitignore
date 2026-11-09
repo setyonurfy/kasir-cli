@@ -1,0 +1,12 @@
+# Hasil build
+dist/
+kasir
+kasir-cli
+*.exe
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
